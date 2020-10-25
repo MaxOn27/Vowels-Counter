@@ -1,0 +1,36 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin: 20px 250px;
+    font-family: "Arial Narrow";
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+}
+
+.textWrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.text {
+    margin: 20px 0;
+}
+
+.btnWrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.btn {
+    cursor: pointer;
+    width: 150px;
+    margin-left: 15px;
+}
